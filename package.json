@@ -6,6 +6,9 @@
     "software": "GNU GPLv3",
     "content": "CC­BY­NC­SA 4.0"
   },
+  "scripts": {
+    "serve": "npx http-server -p 8090"
+  },
   "dependencies": {
     "grunt-deploy": "^0.1.7",
     "jquery": "^3.4.1"
